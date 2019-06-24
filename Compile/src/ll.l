@@ -135,7 +135,7 @@ return 1;
    static int FirstTime=1;
    int  type;
    if(FirstTime){
-      filein=fopen("C://Users//lxy//Desktop//test.txt","r");
+      filein=fopen("filepath","r");
       yyin=filein;
       FirstTime=0;
    }
