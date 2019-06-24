@@ -6,7 +6,7 @@
 
 ## 截图
 
-![](/example/rotate.jpg)
+![](/ComputerGraphics/example/rotate.jpg)
 
 ## **简述**
 

@@ -6,22 +6,20 @@
 
 ## 截图
 
-![](/example/chat.png)
+![](/Python/example/chat.png)
 
 ## 简介
 
-:one:基于Socket的一对多聊天室
-
-:two:服务器端使用了Sqlite数据库
-
-:three:客户端使用了PyQt5图形界面
+1. 基于Socket的一对多聊天室
+2. 服务器端使用了Sqlite数据库
+3. 客户端使用了PyQt5图形界面
 
 ## 环境
 
-:one:Python 3.7.3
-:two:PyQt5
-:three:QtAwesome
-:four:emoji
+1. Python 3.7.3​
+2. PyQt5
+3. QtAwesome
+4. emoji
 
 ## 使用
 

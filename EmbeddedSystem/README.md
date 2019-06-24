@@ -6,29 +6,24 @@
 
 ## 截图
 
-![](/example/wiring.png)
+![](/EmbeddedSystem/example/wiring.png)
 
 ## 简述
 
-:one:这课真是一堆的事，极其不推荐报。签到、作业、考试、实验和大作业全都有:anger:
-
-:two:报告是重点，代码很简单，使用了超声测距、蜂鸣器以及蓝牙模块
+1. 这课真是一堆的事，极其不推荐报。签到、作业、考试、实验和大作业全都有:anger:
+2. 报告是重点，代码很简单，使用了超声测距、蜂鸣器以及蓝牙模块
 
 ## 环境
 
-:one:Arduino
-
-:two:淘宝SeeedStudio上购买的超声测距与蜂鸣器模块
-
-:three:蓝牙模块使用hc-02
+1. Arduino
+2. 淘宝SeeedStudio上购买的超声测距与蜂鸣器模块
+3. 蓝牙模块使用hc-02
 
 ## 使用
 
-:one:超声测距与蜂鸣器的使用：GND端接地，VCC端接电源，NC不接，SIG接数字引脚，其他参考官方wiki文档使用即可
-
-:two:蓝牙模块的使用：GND端接地，VCC端接电源，T、R反接，其他参考网络上的教程使用
-
-:three:如何在手机上接收蓝牙数据：在手机上下载ArduinoBlueToothController即可
+1. 超声测距与蜂鸣器的使用：GND端接地，VCC端接电源，NC不接，SIG接数字引脚，其他参考官方wiki文档使用即可
+2. 蓝牙模块的使用：GND端接地，VCC端接电源，T、R反接，其他参考网络上的教程使用
+3. 如何在手机上接收蓝牙数据：在手机上下载ArduinoBlueToothController即可
 
 ## 功能
 

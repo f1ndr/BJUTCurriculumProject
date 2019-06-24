@@ -6,13 +6,12 @@ C语言实现词语分析、语法分析以及三地址代码生成
 
 ## 截图
 
-![词法](/example/taddr.jpg)
+![](/Compile/example/taddr.jpg)
 
 ## 简述
 
-:one:词法分析与语法分析使用flex和bison自动生成，三地址代码是我自己写的（但好像可以合并），flexbison的使用说明详见/doc/flex-bison_zh.pdf文件
-
-:two:虽然是cpp文件，但是是C语言​
+1. 词法分析与语法分析使用flex和bison自动生成，三地址代码是我自己写的（但好像可以合并），flexbison的使用说明详见/doc/flex-bison_zh.pdf文件
+2. 虽然是cpp文件，但是是C语言​
 
 ## 环境
 
@@ -20,11 +19,9 @@ VisualStudio2017
 
 ## 使用
 
-:one:编写你自己的myflex.l文件用文本编辑器打开或者打开/src/ll.l文件，将`filein=fopen("filepath","r");`中的`filepath`修改为你自己的测试文件路径。编写你自己的mybison.y文件或者使用/src/analys.y文件
-
-:two:flex与bison在win_flex_bison-latest目录下，使用方法自己找吧，年代久远我也记不清了
-
-:three:源码在src目录下，添加到你的工程中编译执行即可​
+1. 编写你自己的myflex.l文件用文本编辑器打开或者打开/src/ll.l文件，将`filein=fopen("filepath","r");`中的`filepath`修改为你自己的测试文件路径。编写你自己的mybison.y文件或者使用/src/analys.y文件
+2. flex与bison在win_flex_bison-latest目录下，使用方法自己找吧，年代久远我也记不清了
+3. 源码在src目录下，添加到你的工程中编译执行即可​
 
 ## 实验要求
 
