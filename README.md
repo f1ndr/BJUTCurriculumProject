@@ -1,0 +1,2 @@
+# BJUTCurriculumProject
+北京工业大学各课程的课程设计内容的代码备份仓库
